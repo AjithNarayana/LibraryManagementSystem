@@ -4,20 +4,31 @@ Library Management System is an application which refers to library systems.It i
 HTML,CSS AND JS:
 
  .Register as student:student can create profile
+ 
  .Student login:gets student credentials in forms
+ 
  .Changepassword:student can change the password with the help of current password
+ 
  .Edit profile:student can edit his profile details
+ 
  .viewissuedbooks:student can view all issued books which are issued by admin
+ 
  .Admin login:gets admin creadentials in forms
+ 
  .View all students:admin can view all students who are there in library management system
+ 
  .Add book:admin can add book in the library 
+ 
  .view all books:Admin can view all books present in the library
+ 
  .Issue book:Admin can issue books to students 
+ 
  .view all issued books:admin can view all issued books to the students
  
 Django Apps:
 
  .Student:-This will coordinates the registration as student,student login,change password,view issued books pages
+ 
  .Admin:-This will coordinates the admin login,view all books,add books,issue books,view all issued books.
 
 
